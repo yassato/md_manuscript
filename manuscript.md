@@ -57,7 +57,7 @@ Try to minimize manual handling until you give up, and export to .docx lastly.
 
 To separate the paragraph, you should put " " (a space) twice, like this sente  
 
-nces. A single space does not influence the word output.  
+nces. A single space does not influence the word output. ~~Strike through~~ can be made using "\~\~something\~\~". Because .docx will be made through 'pandoc', other pandoc annotations are also valid. For example, "\~something\~" and "\^superscript\^" generate ~subscript~ and ^superscript^, respectively. See also the pandoc manual <https://pandoc.org/MANUAL.html#superscripts-and-subscripts> for further controls.
 
 # Tables
 [Table 1.]{#table:GLM label="tableS:GLM"} Effects of the plant height on the dry weight (a) or the number of seeds (b).
