@@ -1,4 +1,5 @@
 ---
+title: Size-dependent reproduction in the virtual plant *Brassica satoi*
 output:
   word_document: default
   pdf_document: default
@@ -6,7 +7,6 @@ output:
 bibliography: bibliography.bib
 csl: genetics.csl
 ---
-# Size-dependent reproduction in the virtual plant *Brassica satoi*
 
 **Yasuhiro Sato**^1^  
 ^1^ <span class="comment-start" id="0" author="YS" date="8-June-2022">IEU stands for "Institut für Evolutionsbiologie und Umweltwissenschaften"</span>IEU<span class="comment-end" id="0"></span>, University of Zurich  
